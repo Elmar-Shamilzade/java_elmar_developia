@@ -1,6 +1,6 @@
-package polyphormism;
+package newlesson;
 
-public class MathMath {
+public class MainMath {
     public static void main(String[] args) {
         MathUnits mathUnits = new MathUnits();
         AdvancedMath advancedMath = new AdvancedMath();
